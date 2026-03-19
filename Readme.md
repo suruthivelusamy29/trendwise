@@ -78,7 +78,7 @@ Trendwise-next/
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Rithish5513U/TrendWise.git
+git clone https://github.com/suruthivelusamy29/trendwise.git
 cd Trendwise-next
 ```
 
